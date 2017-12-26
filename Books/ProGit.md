@@ -8,6 +8,7 @@ Figure 1-6 helped me understand the local operation flow. Previously I did not h
 ## Git Basis
 ### Commit
 Use moji to improve commit message
+- :art: :art: when improving the format/structure of the code
 
     - :art: :art: when improving the format/structure of the code
     - :racehorse: :racehorse: when improving performance
