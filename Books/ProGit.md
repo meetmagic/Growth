@@ -9,8 +9,8 @@ Figure 1-6 helped me understand the local operation flow. Previously I did not h
 ### Commit
 Use moji to improve commit message
 
-    * :art: :art: when improving the format/structure of the code
-    * :racehorse: :racehorse: when improving performance
+    - :art: :art: when improving the format/structure of the code
+    - :racehorse: :racehorse: when improving performance
     * :non-potable_water: :non-potable_water: when plugging memory leaks
     * :memo: :memo: when writing docs
     * :penguin: :penguin: when fixing something on Linux
