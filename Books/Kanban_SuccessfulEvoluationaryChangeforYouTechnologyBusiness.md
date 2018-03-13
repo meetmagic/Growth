@@ -1,7 +1,7 @@
-#看板方法 KANBAN 
-##科技企业渐进变革成功之道 Successful Evolutionary Change for Your Technology Business 
-###导论 Introduction 
-####解决敏捷管理者的困境 Solving an Agile Manager's Dilemma
+# 看板方法 KANBAN   
+## 科技企业渐进变革成功之道 Successful Evolutionary Change for Your Technology Business   
+### 导论 Introduction 
+#### 解决敏捷管理者的困境 Solving an Agile Manager's Dilemma
 * 我对可持续步调的探索 My Search for Sustainable Pace  
   作者希望能够把软件从业者从无止无尽的需求中解脱出来，形成一个可持续的开发步调以应对无穷无尽的需求。
 * 我对成功变革管理的探索 My Search for Successful Change Management  
@@ -14,7 +14,7 @@
 * 总结 Summary
   作者探索拉动系统，来自两方面的动机： 一方面是寻找一种系统性的途径，使团队在工作中实现可持续的步调；另一方面是寻找一种方法，能够以最小的阻力引入过程变革。
   **看板（kanban）**指的是信号卡，**看板系统（kanban system）**指的是使用信号卡实施的拉动系统，**看板（Kanban）方法**指的是渐进(evolutionary)增量式(incremental)的过程改进方法学。
-####什么是看板方法 What Is the Kanban Method?
+#### 什么是看板方法 What Is the Kanban Method?
 * 什么是看板系统 What is a Kanban System?  
   看板（或卡片）的数量，等价于系统设置（核定）的流通能力。  
   拉动系统（pull system）的核心特点是只有系统具备了处理的能力才能拉入新工作项，而不是基于需求将工作项推入系统中。
@@ -34,8 +34,8 @@
 * 作为权限授予者的看板 Kanban as a Permission Giver
   Kanban方法要求对过程中的规则进行明确的定义。
   Kanban方法推动团队开发自己独特的过程解决方案。使用来自不同知识领域的工具，鼓励分析问题和探索解决方案。
-###Kanban方法的益处 Benefits of Kanban
-####一种成功秘诀 A Recipe for Success
+### Kanban方法的益处 Benefits of Kanban
+#### 一种成功秘诀 A Recipe for Success
 * 使用秘诀 Implementing the Recipe
   秘诀中的各项内容，是按照技术职能经理能够依之操作的顺序排列的。专注于质量放在第一步，是因为像开发/测试经理这样的管理者，所能单方面控制和施加影响的。沿着列表向下，到“进行优先级排序”这一步，可控性将逐步降低，而和其他上下游群体进行合作的要求则会逐步加强。
   专注于质量 Focus on Quality
@@ -47,163 +47,163 @@
     大多数的团队都存在能力不足的情况。团队必须直面这个问题，并且通过设定目标循序渐进地构建成熟度。作为IT团队，最主要的还是需要学习构建高质量的代码。这个是作为程序员重中之重的能力，也是获取政治资本和社会资本的根源。
   消除变异性的根源，提升可预测性 Attack Sources of Variability to Improve Predictability
   这是一个高阶话题，但是作为IT领域的团队，关注于需求规模上的差异性，以及在分析、设计、编码、测试、集成构建和交付工作量上的变异性，会对流程的交付速率以及运转整个软件开发价值流所需的开销方面产生积极影响。
-####成功秘诀和看板方法 Recipe for Success and Kanban
-####Summary
+#### 成功秘诀和看板方法 Recipe for Success and Kanban
+#### Summary
 * Kanban方法是一个闭环系统。实施看板方法能够产生富余时间。富余时间可以鼓励员工降低变异性。降低变异性能够减少对富余时间的需要，有利于实现资源平衡，降低对资源的需求，是更多改进机会成为可能。
-###在五个季度内，从最差变为最好 From Worst to BEst in Five Quarters
-####问题 The Problem
-####可视化工作流程 Visualize the Workflow
-####影响效能的因素 Factors Affecting Performance
-####明确过程策略 Make Process Policies Explicit
-####估算是一种浪费 Estimation Was a Waste
-####限制在制品 Limit Work-in-Progress
-####建立输入节奏 Establishing an Input Cadence
-####达成新契约 Striking a New Bargain
+### 在五个季度内，从最差变为最好 From Worst to BEst in Five Quarters
+#### 问题 The Problem
+#### 可视化工作流程 Visualize the Workflow
+#### 影响效能的因素 Factors Affecting Performance
+#### 明确过程策略 Make Process Policies Explicit
+#### 估算是一种浪费 Estimation Was a Waste
+#### 限制在制品 Limit Work-in-Progress
+#### 建立输入节奏 Establishing an Input Cadence
+#### 达成新契约 Striking a New Bargain
 * 有许多企业或者人倾向于在数据的计算上达到一定的精度。比如文中由多个产品经理共享的开发团队。一开始产品经理是按照开发团队完成的具体工作项和所消耗的人工时来进行费用结算。这就导致每个产品经理都需要团队提供一个详尽的工时使用信息。后来，新的项目经理建议大家采用力度较粗但是可以接受的度量方式，比如说按照百分比的方式，这样可以减少许多事务性的工作，释放团队的真正产能，应用到真正需要的地方上去。
-####实施变革 Implementing Changes
-####调整策略 Admjusting Policies
-####寻求进一步的改善 Looking for Further Improvements
-####成果 Results
+#### 实施变革 Implementing Changes
+#### 调整策略 Admjusting Policies
+#### 寻求进一步的改善 Looking for Further Improvements
+#### 成果 Results
 衡量交付效率的参数：前置时间（leading time), 准时交付率
-####Summary
+#### Summary
 * 应该将工作流绘制出来，以可视化的形式呈现工作流。通过这一过程可以指定与团队适应的观察指标，用以衡量团队的效率。
 * 应该通过一组明确定义的策略来描述过程。 
 * 看板方法能够发现改善的机会，而且其中不会涉及复杂的工程方法。**多数人会认为没有领导层的推动，底层人民是很难形成有效的改革的。但是Kanban方法却证明了变革可以发生在任何时候。从我自身的经历看来，我也曾认为没有管理层的认可，任何变革都是无力的。但是，通过阅读书中的实例，我的一个深刻感受就是，我们要敢于提出自己的建议。但是这些建议并不需要高屋建瓴，目标是推翻现任管理层的上层设计。而是从自身工作出发，思考目前的工作是否需要改变。和与你长期一起共事的人进行博弈，以获取最有利于你自己的工作方式的改进。**
 * 通过管理瓶颈、消除浪费和降低那些影响客户期望值与满意度的变异性，产生显著改善是有可能的。
 * 变革需要经历一段时间才能充分展现效果。
-###持续改进的文化 A Continuous Improvement Culture
-####改善文化 Kaizen Culture
+### 持续改进的文化 A Continuous Improvement Culture
+#### 改善文化 Kaizen Culture
 * 改善文化的目标是打造一个具有竞争性和创造力的团队，而不是依靠一两个特别突出的个体来创建团队。
-####看板方法会加速组织成熟度和能力的提升 Kanban Accelerates Organizational Maturity and Capability
+#### 看板方法会加速组织成熟度和能力的提升 Kanban Accelerates Organizational Maturity and Capability
 * 在变革管理方面具备这种高成熟度的组织，能够更快、更好地采纳敏捷开发方法。
 * 在团队变革起步阶段，可以将看板方法作为一种组织内驱动变革方法。但是，看板方法中关于协作性博弈方面的策略，将有助于团队在成熟度上产生重大转变，并会给企业带来更为显著的变革，并进一步减小阻力。
 * Case Study
-####社会变革学 Sociological Change
-####文化变革也许是看板方法带来的最大好处 Cultureal Change is Perhaps the Biggest Benefit of Kanban
-##看板实施方法 Implementing Kanban
-###价值映射流 Mapping the Value Stream
+#### 社会变革学 Sociological Change
+#### 文化变革也许是看板方法带来的最大好处 Cultureal Change is Perhaps the Biggest Benefit of Kanban
+## 看板实施方法 Implementing Kanban
+### 价值映射流 Mapping the Value Stream
 * 看板方法通过优化现有过程来驱动变革。启动看板方法的关键是，变化要越少越好。可以主要改变在制品的数量、与上下游业务间的接口及交互方式。
 * 在可视化实现过程中，要坚持kanban要反映真实的团队流程
 * 定义好和上下游合作伙伴的接口位置
-####定义控制起点和终点 Defining a Start and End Point for Control
+#### 定义控制起点和终点 Defining a Start and End Point for Control
 * 不必要求上下游伙伴改变工作方式，但是要求他们能够以一种与你希望实施的拉动系统相兼容的方式进行交互
 * 确定看板实施范围，最好只在自己的职务权利范围内实施看板
-####工作项内容 Work Item Types
+#### 工作项内容 Work Item Types
 * 典型的工作项：需求(requirement), 功能特性(feature), 用户故事(story), 用例(use case), 变更请求(change request), 产品缺陷(production defect), 维护工作(maintenance), 重构(refactoring), 错误(bug), 改进建议(improvement suggestion), 受阻问题(blocking issue)
 * 若团队服务于多个客户，也可以根据来源对工作项类型命名
-####绘制卡片墙 Drawing a Card Wall
+#### 绘制卡片墙 Drawing a Card Wall
 * 对工作流而不是职能活动建模
 * 典型工作流：输入队列，分析（进行中，已完成），待开发，开发（进行中，已完成），构建成功带测试，测试，待发布，预发布，已发布到产品中
-####请求分析 Demand Analysis
+#### 请求分析 Demand Analysis
 * 对请求进行分类，并且评估其到达率和紧急程度，从而调整团队的产能分配，以应对不同类型的工作
-####根据请求分配产能 Allocating Capacity According to Demand
+#### 根据请求分配产能 Allocating Capacity According to Demand
 * 根据用户请求和团队策略，合理分配产能
-####工作项卡片详解 Anatomy of a Work Item Card
+#### 工作项卡片详解 Anatomy of a Work Item Card
 * 设计工作项卡片，使其拥有充足的信息，引导团队以自组织的方式拉动工作项，便于团队成员根据工作项类型，服务水平协议和服务类别综合呈现的风险状况，做出高质量的决策
 * 工作项卡片：工作项No., Description, Started Date, Target Date(optional), Owner(optional) 
 * Blocking issue/Task
-####电子跟踪 Electronic Tracking
+#### 电子跟踪 Electronic Tracking
 * 可以进行定量化管理、衡量组织级过程效能（对多个看板系统、团队或项目进行效能对比）以及进行案例分析（基于可靠的统计数据进行根因分析）
 * **考虑设计可跟踪指标，以进行案例分析**
-####应对并行活动 Coping with Concurrency
-####应对次序无关的活动 Coping with Unordered Activities
+#### 应对并行活动 Coping with Concurrency
+#### 应对次序无关的活动 Coping with Unordered Activities
 * 这些活动通常与高度创新性和试验性的工作相关。通常团队无法在工作开始前，明确定义一项工作到底需要多少内容完成。这些都需要成员摸着石头过河，不停探索。所以，可以在卡片上标明要做的事情，类似
-###使用看板进行协调 Coordination with Kanban System
-####可视化控制和拉动 Visual Control and Pull
+### 使用看板进行协调 Coordination with Kanban System
+#### 可视化控制和拉动 Visual Control and Pull
 * 设计卡片信息和看板墙，促使团队成员自身主动拉动工作进展
-####电子跟踪 Electronic Tracking
+#### 电子跟踪 Electronic Tracking
 * 主要是实现可靠数据收集，还有一个功能支持多地团队协助开发
-####每日站立会议 Daily Standup Meetings
+#### 每日站立会议 Daily Standup Meetings
 * 敏捷开发站会议程：昨天做了什么？今天计划做什么？有什么困难或者需要帮助吗？
 * Kanban站会：引导者（facilitator）从后往前走读看板；重点关注受阻的工作项，延期的工作项和没有流动的工作项
-####会后讨论 The After Meeting
+#### 会后讨论 The After Meeting
 * 会后以小组形式开展的自发行为。
 * 讨论内容可能是一个受阻问题，或者一个技术问题，或者构架问题，或者是过程相关的问题。
 * 会后讨论随着看板方法的应用而涌现出来，是文化转型过程中的一个关键要素。
-####队列填充会议 Queue Replenishment Meetings
+#### 队列填充会议 Queue Replenishment Meetings
 * 其目的是为一个单独的价值流、系统或项目填充看板系统的输入队列
 * 以固定频率定期召开，降低召开会议的协调成本，在业务方和团队之间形成确定性和产生信任关系
 * 参加人员主要有：来自公司内存在潜在竞争的产品负责人和业务人员，项目经理，技术职能经理（开发或测试经理），技术构架师或数据构架师（可以评估技术风险），可用性专家，运维专家，业务分析师。
 * 尽可能是组织中的资深人员。他们一般拥有较为宽广的视野，拥有更多的信息，可以提升决策的质量，优化队列填充
-####发布规划会议 Release Planning Meetings
+#### 发布规划会议 Release Planning Meetings
 * 若发布频率固定，则建立固定节奏的发布规划会议。若发布频率不固定，则在临近发布日期前，建立固定节奏的发布规划会议。
 * 出席人员：项目经理，配置管理专家，运维专家，开发人员，测试人员，业务分析师，以及他们的主管或经理。
 * 会议之前要制定一份检查列表，以便便捷地规划发布。
 * 会议产出会是一个填写完整的发布计划。
-####鉴别分类 Triage
+#### 鉴别分类 Triage
 * 其目的是走查待办项列表的每一项，决定是否在代办列表上保留这一项，还是将之删除。
 * 应该以较低频率方式进行，比如说每月，每季度，或者每半年。
 * 待办事项的规模需要根据项目的震荡特性、团队的交付速率来决定。
-####问题日志的审查与升级 Issue Log Review and Escalation
+#### 问题日志的审查与升级 Issue Log Review and Escalation
 * 当看板系统中有工作项受阻，将其标识出来的同时，可以创建一个对应的问题工作项
 * 问题工作项将一直处于open状态，直到被解决
 * 问题日志审查是独立的会议，只有项目经理和受阻成员参加。会议解决该由谁解决这个问题，期望什么时候解决完成，问题升级路线和规则。
 * 问题管理做好可以改善流动性，极大提高团队的生产率和交付的价值。
-####现场贴纸代理 Sticky Buddies
-####跨多个地理位置保持同步 Synchronizing across Geographic Locations
-###建立交付节奏 Establishing a Delivery Cadence
+#### 现场贴纸代理 Sticky Buddies
+#### 跨多个地理位置保持同步 Synchronizing across Geographic Locations
+### 建立交付节奏 Establishing a Delivery Cadence
 * 定期交付可用软件方面的协议和承诺，是Kanban系统形成的新型契约中的一个组成部分
 * **不同的活动可以采用不能的节奏来完成工作。可以将需求分析，开发，和发布分离开来。**
-####交付的协调成本 Coordination Costs of Delivery
+#### 交付的协调成本 Coordination Costs of Delivery
 * 每次软件交付都包含协调成本
 * 根据定期交付的节奏进行调度，能够降低协调成本
-####交付的事务成本 Transaction Costs of Delivery
+#### 交付的事务成本 Transaction Costs of Delivery
 * 在交付活动中的非增值活动就是交付的事务成本
-####交付效率 Efficiency of Delivery
+#### 交付效率 Efficiency of Delivery
 * 交付效率%=（总成本-（协调成本+事务成本））/总成本
 * 还可以以交付的价值来计算交付效率
-####确定交付节奏 Agreeing a Delivery Cadence
+#### 确定交付节奏 Agreeing a Delivery Cadence
 * 根据团队具体情况确定交付的频率
-####通过提高效率来提升交付节奏 Improve Efficiency to Increase Delivery Cadence
+#### 通过提高效率来提升交付节奏 Improve Efficiency to Increase Delivery Cadence
 * 如果有富余资源，投入到工具开发中，改善发布过程中的技术步骤。
 * 要求控制和执行发布过程的团队降低事务成本和协调成本。
-####进行随需获临时交付 Making On-Demand or Ad Hoc Deliveries
+#### 进行随需获临时交付 Making On-Demand or Ad Hoc Deliveries
 * 当协调成本和事务成本都非常低的情况下，可以考虑按需交付
-###建立输入节奏 Establishing an Input Cadence
-####优先级排序的协调成本 Coordination Costs of Prioritization
+### 建立输入节奏 Establishing an Input Cadence
+#### 优先级排序的协调成本 Coordination Costs of Prioritization
 * 由业务人员决定待办事项的优先级优于由POz做决定
 * 优先级排序是一协作性合作博弈活动
-####确定优先级排序节奏 Agreeing on a Prioritization Cadence
+#### 确定优先级排序节奏 Agreeing on a Prioritization Cadence
 * 保持固定节奏的优先级排序，有利于相关业务负责人之间能够频繁互动。通过互动，能够在彼此间建立信任关系。
 * 参与优先级排序的团队成员主要包括项目经理，开发经理，测试经理，和业务分析经理
 * 在会上还可以简单的更新开发团队的最新进展
-####优先级排序的效率 Efficiency of Prioritization
+#### 优先级排序的效率 Efficiency of Prioritization
 * 合理情况下，越频繁举行优先级排序会议越好。这样可以保持输入队列最小，从而使得系统中的浪费越少。
-####优先级排序的事务成本 Transaction Costs of Prioritization
+#### 优先级排序的事务成本 Transaction Costs of Prioritization
 * 在进行优先级排序之前，我们都会做一些准备，这些就是事务成本。其中包括估算，业务规划准备，从待办事项表中选出候选项等。
 * 尽量避免细节性的估算活动
-####提高效率以支持更频繁的优先级排序节奏 Improve Efficiency to Increase Prioritization Cadence
+#### 提高效率以支持更频繁的优先级排序节奏 Improve Efficiency to Increase Prioritization Cadence
 * 通常敏捷规划方法由于协调成本的原因，仅对专注于单一系统和产品线的小团队才高效。
 * 大部分服务类别都取消估算，能够降低优先级排序的事务成本和协调成本。
-####进行随需或临时性的优先级排序 Making On-Demand or Ad Hoc Prioritization
-###设置在制品限额 Setting Work-in-Progress Limits
-####工作任务的限额 Limits for Work Tasks
+#### 进行随需或临时性的优先级排序 Making On-Demand or Ad Hoc Prioritization
+### 设置在制品限额 Setting Work-in-Progress Limits
+#### 工作任务的限额 Limits for Work Tasks
 * 在选择在制品限额数值上没有什么魔法公式。可以先设定一个数值，然后通过试验观察不断地调整。
 * 要和价值流上下游干系人和职能部门资深管理者对WIP限额达成一致共识。
-####排队队列中的限额 Limits for Queues
-####瓶颈前的缓冲 Buffer Bottlenecks
+#### 排队队列中的限额 Limits for Queues
+#### 瓶颈前的缓冲 Buffer Bottlenecks
 * 在瓶颈资源前设置一个缓冲区，可以充分利用瓶颈资源，并把工作流变得平滑，也改善了前置时间的可预测性。
 * 若队列和缓冲设置得太小，由于变异性，系统运行时会出现走走停停的问题。
-####输入队列的大小 Input Queue Size
+#### 输入队列的大小 Input Queue Size
 * 实施看板是一个不断观察和试验的过程。
 * 输入队列的大小需要根据团队当时的情况进行调整，而不是一成不变的。
 * 输入队列要保持越小越好，一般将其大小设置在足以消化工作项规模和任务工时上的变异所带来的影响就可。
-####工作流中不设WIP限额的区域 Unlimited Sections of Workflows
+#### 工作流中不设WIP限额的区域 Unlimited Sections of Workflows
 * 看板系统在所有节点时设置WIP限额，以免一些意想不到的变异性导致某一步骤变成一个临时瓶颈。在这种情况下，WIP限额会让整个工作流停下来解决该处的瓶颈。
-####不要使组织压力过大 Don't Stress Your Organization
+#### 不要使组织压力过大 Don't Stress Your Organization
 * WIP限额的设置在成熟度低的组织中可以设置得较为宽松。以免产生一个大的J型曲线效应，造成的影响大，系统修复，恢复稳定的时间长。最终导致看板实施失败。
-####不设置在制品限额是错误的 It's a Mistake Not to Set a WIP Limit
+#### 不设置在制品限额是错误的 It's a Mistake Not to Set a WIP Limit
 * 在价值流中添加WIP限额带来的压力是一种积极的压力。它会迫使大家去讨论组织的问题和机能障碍，而不仅仅是对生产率、前置时间和质量进行局部优化。系统性优化在看板系统中具有非常重要的地位。
-####产能分配 Capacity Allocation
+#### 产能分配 Capacity Allocation
 * 建立了WIP限额规则后，可以考虑根据工作项类型或者服务类别来分配产能，以达到有效的服务保障。
-###建立服务水平协议 Establishing Service Level Agreements
+### 建立服务水平协议 Establishing Service Level Agreements
 * 通过为不同类型的工作提供不同类别的服务，可以做到在优化经济效益的同时，为客户带来更多的灵活性。
 * 通过为一项工作快速确定服务类别，则无需再对该工作项进行细致的估算和分析。通过服务类别的相关规则条款，影响工作项在看板系统的拉动方式。服务类别决定工作项在系统内的优先级。它为优先级排序和输入队列的再填充提供了一种自组织途径，并有利于价值-风险组合的优化。
-####服务类别的一种典型定义 Typical Class-of-Service Definitions
+#### 服务类别的一种典型定义 Typical Class-of-Service Definitions
 * 每个服务类别都有一套规则条款，决定该类别下的工作项被拉入看板系统的优先级次序。每个服务类别还想客户做出明确的承诺。
 * 典型定义：加急类 Expedite， 固定交付日期类 Fixed Delivery Date（有直接或者间接的重大延期成本），标准类 Standard Class（在交付时间框架范围内，延期成本一致存在），无形类 Intangible Class（在其交付时间框架内，就不存在延期成本。）
 * 按照服务类别分配产能。为了能够具备富余产能来处理加急请求，也必须安排一些低延期成本的工作以便周转。
-####为服务类别设置规则条款 Policies for Class of Service
+#### 为服务类别设置规则条款 Policies for Class of Service
 * 加急类的规则条款
     * 任意时间，只能有一个加急请求。
     * 符合要求的资源必须即刻配置给加急请求。
@@ -227,48 +227,48 @@
     * 只要没有其它更高级别的优先级工作项就可以根据临时需要拉入无形类工作项。
     * 无需估算标准工作项的工作大小和流动时间， 但可以判定其规模的数量级
     * 一般对于无形类工作项不会指定服务水平协议。
-####确定服务交付目标 Determining a Service Delivery Target
+#### 确定服务交付目标 Determining a Service Delivery Target
 * 服务水平协议不是针对每一个工作项做出承诺，而是通过处理请求的集合来分散风险。
 * 估算是一个高成本低产出活动。
 * 设置的前置时间目标必须是大多数情况下可达成的，但是又具有足够的挑战性，以促使团队全力以赴。
 * 推动业务团队不要对在制品的准确交付日期纠缠不休，而是关注在已经交付了哪些成果，规划未来的交付功能。**即客户关注导向转变为长期的关系以及整个系统的效能表现。**
-####设置服务类别 Assigning a Class of Service
+#### 设置服务类别 Assigning a Class of Service
 * 规划时间跨度可以是前置时间的2-3倍。
-####应用服务类别 Putting Classes of Service to Use
+#### 应用服务类别 Putting Classes of Service to Use
 * 每个看板系统在实施时都要清楚的定义所采用的服务类别。每位成员都要清楚理解每个服务类别的相关规则。
 * 服务类别通常为4-6个，每个类别的规则在6个左右。
 * 服务类别的划分让自组织成为可能，它能给团队成员带来更多授权，并节省出更多的管理时间。
-####根据服务类别来配置产能 Allocate Capacity to Classes of Service
+#### 根据服务类别来配置产能 Allocate Capacity to Classes of Service
 * 分配给各个服务类别的产能比例，要与需求情况相匹配。
-###度量和管理报告 Metrics and Management Reporting
+### 度量和管理报告 Metrics and Management Reporting
 * 可预测性：观察指标的变异分布范围缩小了
 * 持续改进：观察指标展现的平均趋势随时间推移得到不断地改善
-####跟踪在制品 Tracking WIP
-####前置时间 Lead Time
+#### 跟踪在制品 Tracking WIP
+#### 前置时间 Lead Time
 * 可以对前置时间进行光谱分析。对没有达成目标前置时间的工作项进行归因分析，以进行持续改进。
 * 前置时间是展示业务敏捷性的一个指标。
 * 对固定交付日期类工作项，要跟踪预估前置时间与实际前置时间的差异。
-####准时交付率 Due Date Performance
+#### 准时交付率 Due Date Performance
 * 比较最近月份的准时交付率和年度至今的准时交付率对分析团队全体效能很有用
 * 这是一个展示可预测性的指标。
-####交付速率 Throughput
+#### 交付速率 Throughput
 * 这个指标可以用来展示整个团队的效能水平和持续改进的状况
-####问题与受阻工作项 Issues and Blocked Work Items
+#### 问题与受阻工作项 Issues and Blocked Work Items
 * 可以用累计流量图来报告阻塞问题和受阻工作项数量，并叠加一张受阻在制品图。这个可以用来展示组织识别问题与快速解决问题的能力。
-####流动效率 Flow Efficiency
+#### 流动效率 Flow Efficiency
 * 这个是前置时间和分配时间之比，可以用以展示持续改进效果的观察指标。可以用来评估在不改变当前工程方法的前提下还有多大改善空间。
-####初始质量 Initial Quality
+#### 初始质量 Initial Quality
 * 缺陷意味着成本，会影响看板系统的前置时间和交付速率。缺陷与在制品总量和交付速率的百分比是有意义的。
-####破坏负载 Failure Load
+#### 破坏负载 Failure Load
 * 破坏负载跟踪的是因早前的质量问题引生的工作项数量：包括Production Defect，需求分析错误而产生的工作项。这个观察指标可以用来展示是否从组织整体上进行改善，以及是否从系统层面上进行思考。
-###使用两层系统扩展看板 Scaling Kanban with Two-Tiered Systems
+### 使用两层系统扩展看板 Scaling Kanban with Two-Tiered Systems
 * 这一章主要讨论看板方法如何应用到大项目中去
 #### 层次化的需求 Hierarchical Requirements
 * 需求层次会分为三级：epic/feature/story
 * 对需求类型进行分类。
 * 选择对最顶上的两层需求进行跟踪。
 * 通常大型项目会有几个团队同时参与，所以可以指定两层Kanban。整个项目的大看板上通常关注顶层工作项。各个团队的小看板上展示具体的需求工作项和任务。
-####将价值交付和工作项的变异性解耦 Decouple Value Delivery from Work Item Variability
+#### 将价值交付和工作项的变异性解耦 Decouple Value Delivery from Work Item Variability
 * 最高层次的需求和最粗颗粒的需求，通常都是面向市场或者面向客户的最小价值单元。
 * 最小可交付特性 Minimal Marketable Feature
 * 由于不同的MMF会在规模上有数量级上的差别，用其来组织看板，不易获得稳定的前置时间，从而使得团队丧失业务敏捷性和可预测性。
@@ -277,48 +277,48 @@
 * 规模更小，更为精细化的工作项易于流程，使交付速率和前置时间的可预测性更好。
 * 采用两层跟踪的方式，能够将价值交付与工作项规模上的变异性以及交付价值所需的工作量进行解耦。
 * 有必要在两个层次上都设置WIP限额。
-####两层开片墙 Two-Tiered Card Walls
+#### 两层开片墙 Two-Tiered Card Walls
 * 粗颗粒需求和用户故事需求可以经过不同的状态流程。
-####引入泳道 Introducing Swim Lanes
+#### 引入泳道 Introducing Swim Lanes
 * 每一粗颗粒需求就是一个泳道。泳道数就是粗粒度的WIP。
-####应对规模变异性的另外一种方法 Alternative Approach to Size Variability
+#### 应对规模变异性的另外一种方法 Alternative Approach to Size Variability
 * 为不同规模的工作项创建工作项类型。泳道按照工作项类型划分。由于每个泳道内的工作项的变异性较低，所以每个泳道的流动会相对顺畅。
-####和服务类别结合在一起 Incorporating Classes of Service
-####系统集成 System Integration
+#### 和服务类别结合在一起 Incorporating Classes of Service
+#### 系统集成 System Integration
 * 在大型项目中，常常有多个团队在一个系统的不同组件上工作，这些组件稍后集成。基于这种情况，通常要基于粗粒度的高层需求进行规划，确定一个集成时间点。这一时间点就是与此相关的依赖组建的固定交付日期。
-####管理共享资源 Managing Shared Resources
+#### 管理共享资源 Managing Shared Resources
 * 多个大项目和跨项目组合共享一些专门资源是很常见的。
 * 可以在工作项上贴上小标签，标识使用的共享资源。也可以为共享资源建立单独的看板系统。
-###运营回顾 Operations Review
-####会前准备 Ante meeting
-####在开始时设置好业务基调 Set a Business Tone from the Beginning
+### 运营回顾 Operations Review
+#### 会前准备 Ante meeting
+#### 在开始时设置好业务基调 Set a Business Tone from the Beginning
 * 邀请财务运营官通过财务数据来开始运营回顾
-####邀请嘉宾扩大听众范围并带来附加价值 Inviting Guests Broadens the Audience and Adds Value
+#### 邀请嘉宾扩大听众范围并带来附加价值 Inviting Guests Broadens the Audience and Adds Value
 * 通过嘉宾促使IT部门了解业务部门或者相关部门的运作
 * 有助于相关业务团队了解IT的运作模式，也有利于IT了解业务部门面临的问题与挑战
-####主要议程 Main Agenda
+#### 主要议程 Main Agenda
 * 回顾会议可以展现以数据驱动的成果汇报，也可以讨论组织遇到的难题，还可以讨论重大生产缺陷
-####精益转型的基础 Keystone of Lean Transaction
+#### 精益转型的基础 Keystone of Lean Transaction
 * 运营回顾会是精益转型和看板方法实施的关键，创造了能够提升组织成熟度、实现组织持续改善行动的反馈机制。
 * 运营回顾会的范围可以是在部门级别，超越单一项目，它期望带来的是一种客观，基于数据，定量化的管理方式。
-####适宜的节奏 Appropriate Cadence
+#### 适宜的节奏 Appropriate Cadence
 * 季度会议会显得比较高效
 * 反馈循环机制的确实会减少反思与适应的机会，而这些机会本可以带来改善效果。
-####体现管理者的价值 Demostrating the Value of Managers
+#### 体现管理者的价值 Demostrating the Value of Managers
 * 运营回顾会为管理者和员工提供了一个交流机会。它向员工展示了管理者的工作内容，以及管理活动是如何为大家带来附加值的。也助于员工掌握管理者的思考方式。
-####组织层面的专注能培育改善文化 Organizational Focus Fosters Kaizen
+#### 组织层面的专注能培育改善文化 Organizational Focus Fosters Kaizen
 * 整个组织范围的运营回顾更能促进变革、改善和流程的制度化。也能激励团队通过个人和团队力量，为组织能效改善做出贡献。
-####一个早期案例 An Earlier Example
-####Summary
+#### 一个早期案例 An Earlier Example
+#### Summary
 * 运营回顾会应该在整个组织范围内进行。
 * 运营回顾会应该专注于客观数据上的呈现和分析。
 * 应当将改善建议梳理成管理行动计划，并在下次及后续会议的开头更新进展情况。
-###启动看板变革 Starting a Kanban Change Initiative
+### 启动看板变革 Starting a Kanban Change Initiative
 * 无法通过一种预定义的转型计划和固定的培训程序，来驱动组织采纳看板方法。
 * 对团队和其他利益干系人进行培训使其了解KANBAN方法的基本理念，对瓶颈、浪费、变异性等可能的改进机会做介绍。
-####看板系统的首要目标 The Primary Goal for Our Kanban System
+#### 看板系统的首要目标 The Primary Goal for Our Kanban System
 * 1st Goal：优化现有流程 - 以最小阻力启动变革。通过引入可视化和限制在制品来促进变革，进而实现流程优化。
-####看板系统的次要目标 Secondary Goals for Our Kanban System
+#### 看板系统的次要目标 Secondary Goals for Our Kanban System
 * 2nd Goal：高质量交付 - 限制WIP和明确定义工作项，可被拉至流程下一步的验收规则，则看板方法有助于我们专注于质量。
 * 3rd Goal：提升牵制时间的可预测性
 * 4th Goal：提升员工满意度
@@ -326,10 +326,10 @@
 * 6th Goal：简化优先级排序
 * 7th Goal：使系统设计及运作透明化 - 它可以使参与到价值流中的每个人都能够看到自己的作为或不作为会产生怎样的影响。因而，大家的表现也就更为理性了。他们会改变自己的行为以改善整个系统的效能。
 * 8th Goal：设计能够打造高成熟度组织的流程 - 实现可预测性，业务敏捷性及优秀管理
-####理解目标，阐明益处 Know the Goals and Articulate the Benefits
+#### 理解目标，阐明益处 Know the Goals and Articulate the Benefits
 * 我们要深刻理解看板方法的目标及会给我们带来的益处
 * 看板方法在一开始就要求与更广范围的价值链上的合作伙伴以及中层管理者之间达成具有协作性的共同承诺。
-####实施步骤 Steps to Get Started
+#### 实施步骤 Steps to Get Started
 * 与相关利益干系人就导入看板方法的一系列目标达成共识。
 * 绘制价值流图（开发者组织为了满足客户/利益干系人的请求而需要进行的各种活动（详见第六章）。
 * 在流程中定义某个节点，在那里你想对输入做些控制。明确该节点的上游以及上游的利益干系人（详见第六章）。
@@ -347,7 +347,7 @@
 * 与团队约定每天在看板墙前召开站立会议；邀请上下游的利益干系人加入站立会议，但并不要求强制参加（详见第七章）。
 * 约定定期召开运营回顾会议，对流程进行回顾分析；邀请上下游的利益干系人参加回顾会议，但并不要求强制参加（详见第十四章）。
 * 对团队进行看板墙、在制品限制及拉动系统的培训。其他一切都不做任何改变。职责描述保持不变，工作内容保持不变，工作转接次序保持不变，工件类型保持不变，除了要求团队成员接受WIP限额并依据服务类别进行拉动而非推动工作外，其他所有流程均保持不变。
-####看板方法带来新的谈判模式 Kanban Strikes a Different Type of Bargain
+#### 看板方法带来新的谈判模式 Kanban Strikes a Different Type of Bargain
 * 传统项目管理的谈判方式主要是基于范围、进度及预算构成的三角约束做出管理承诺。通常的做法是，首先进行一些估算与计划；然后分拨预算，投入资源，各方就需求范围与时间进度达成一致。
 * 在项目过程中需要舍弃一些东西进行权衡时，传统的项目经理可能会选择延期交付、增加资源投入、缩减范围或三者不同程度地兼而有之。
 * 敏捷项目管理会约定在几个月后的某天进行交付，但不会明确界定范围。它会对项目范围做一些高层的宏观定义，但是不会对细粒度的需求细节锁死。为了向项目投入固定资源，会先商定预算。
@@ -356,7 +356,7 @@
 * 看板团队通过提升交付质量，交付速率，频率和缩短交付周期来持续性地改善服务水平。
 * 鼓励/说服客户通过服务水平来衡量团队，而不是严苛某个具体工作项的交付要求和开发团队纠结不清。
 * 看板方法要求客户和价值链中的合作伙伴在此过程中做出着眼于长远利益的支持承诺。
-####启动看板实施的谈判 Striking the Kanban Bargain
+#### 启动看板实施的谈判 Striking the Kanban Bargain
 * 启动看板的初期谈判的主要内容，是明确后续将遵循的软件开发协作博弈的规则。
 * 谈判可以就WIP限额、优先级排序、交付、服务类别和前置时间等条例达成共识。这五项因素仿佛是五个可以用来调节看板系统效能的控制感。所要求的技巧是，你要知道如何推动这些控制杆，直到如何进行权衡选择，设计出一套能够实现系统高效运转的规则协议。
 * WIP限额 WIP Limits
@@ -370,13 +370,13 @@
 * 前置时间与服务类别 Lead Time and Class of Serivce
     * 讨论前置时间时，手头如果有些效能相关的历史数据可供参考，则会很有帮助，这些数据最好是前置时间和工程处理时间方面的数据。
     * 直接询问业务方实际所需的响应水平。采用这种方法时，最好和服务类别结合起来。
-####Summary
+#### Summary
 * 努力构建一个结果可预测、业务敏捷、管理良好的流程，打造软件工程研究所所定义的高成熟度的组织。
-##继续改进 Making Improvements
-###三类改进机会 Three Types of Improvement Opportunities
+## 继续改进 Making Improvements
+### 三类改进机会 Three Types of Improvement Opportunities
 * 看板方法的阶进阶段就是识别改进机会，选择适当的改善方法，采取适当的行动方案
 * 三种常见的改进模型：约束理论及五步聚焦法；精益思想子集模型；聚焦于分析和减少变异性的模型
-####瓶颈、消除浪费和降低变异性 Bottlenecks, Waste Elimination, and Reduction of Variability
+#### 瓶颈、消除浪费和降低变异性 Bottlenecks, Waste Elimination, and Reduction of Variability
 * 可以将这三种模型合成在一起，提供一种关于如何识别改进机会的宏观视角，以及使用各种模型来实施改善的具体细节。
 * 拥有一系列关于改善的广阔思维范式（paradigm）和工具，对实施变革而言，无疑能够带来更大的灵活性。
 * 约束理论 Theory of Constraints
@@ -394,9 +394,9 @@
     * SPC将变异分为两类：机会致因（change cause）变异和可归因（assignable cause）变异。亦或一般致因（normal cause）变异或特殊致因（special cause）变异。
     * 能够理解系统中的变异以及它们对效能的影响，并能将这些变异划归到这两个分类中。根据变异类型采取适当的管理行动，是持续改进过程的核心。
     * 六西格玛采用SPC技术来识别一般致因变异和特殊致因变异，采用一个过程从根源上消除特殊致因变异，防止它们重复出现。但它是一种低信任度、依靠命令和控制方式来实施改善的方法。更偏向于在战略层面实施改善，并且需要或得专门授权以专门的项目来实施。
-####看板方法与公司文化的适配 Fitting Kanban to Your Company Culture
-###瓶颈和非即时可用资源 Bottlenecks and Non-Instant Availability
-####能力受限资源 Capacity-Constrained Resources
+#### 看板方法与公司文化的适配 Fitting Kanban to Your Company Culture
+### 瓶颈和非即时可用资源 Bottlenecks and Non-Instant Availability
+#### 能力受限资源 Capacity-Constrained Resources
 * 突破举措 Elevation Actions
     * 突破约束（elevating the contraint）：当遭遇瓶颈问题时，人们的第一直觉都会是投入更多的资源，通过产能扩容来消除瓶颈。
     * 事实是产能扩容是一个费时费钱的措施。往往应该作为解决能力受限资源瓶颈问题的最后一个手段。
@@ -408,7 +408,7 @@
 * 服从举措 Subordination Actions
     * 一旦决定充分挖掘和保护能力受限资源，就需要采取一些具体措施来达到目标—使系统中的其余事情都服从于这一举措—以确保充分挖掘瓶颈的方案能够高效工作。
 * 具有反直觉的地方是，大多数的瓶颈管理举措，并不作用在瓶颈处。期望能够充分挖掘瓶颈产能的改善举措，需要在整个价值流中寻找，通常这些大部分并不发生在瓶颈处。
-####非即时可用资源 Non-Instant Availability Resources
+#### 非即时可用资源 Non-Instant Availability Resources
 * 非即时可用资源并非瓶颈，虽然它们看起来很像瓶颈。
 * 挖掘/保护举措 Exploitation/Protection Actions
     * 可以在非即时可用资源前设置缓冲区，以保持工作可以流动
@@ -419,24 +419,24 @@
     * 挖掘举措是一种战术上充分挖掘瓶颈能力的短期策略。突破举措是长期策略。
     * 突破举措需要花费时间和资金来实施，是在过程改进方面的战略性投资。
     * 对于过程的改进，应该要挖掘和突破并举。
-###精益的一种经济学模型 An Economic Model for Lean
-####重新定义“浪费” Redefining “Waste”
+### 精益的一种经济学模型 An Economic Model for Lean
+#### 重新定义“浪费” Redefining “Waste”
 * 日常工作中的成本活动可以分为：事务成本，协调成本和破坏负载
-####事务成本 transaction cost
+#### 事务成本 transaction cost
 * 识别工作中的事务成本
-####协调成本 coordination cost
+#### 协调成本 coordination cost
 * 如果能够让越多的信息对团队中的知识工作者保持透明，就越有可能实现自组织，也就越少需要进行协调工作。
-####如何识别一项活动是否是成本 How Do You Know if an Activity Is a Cost?
+#### 如何识别一项活动是否是成本 How Do You Know if an Activity Is a Cost?
 * 我愿意更多地做这件事情吗？
 * 不必过于纠结一项活动是事务成本还是协调成本
-####破坏负载 Failure Load
+#### 破坏负载 Failure Load
 * 破坏负载没有创造新的价值。它带来的增值是先前本该交付的价值
-###变异性的根源 Sources of Variability
+### 变异性的根源 Sources of Variability
 * 内源性变异，指的是那些在运作过程中处于系统内部的可控变异
     * 在系统内部生成的变异为机会致因变异。这种变异直接处在团队和管理活动的控制下，可以通过改变策略、变更过程、影响内部变异根源，来控制它。
 * 外源性变异指的是那些发生在团队和管理活动可以管控范围之外的事件。
     * 可归因变异具有随机性，无法通过策略改变来直接影响。
-####变异性的内部根源
+#### 变异性的内部根源
 * 软件开发和项目管理过程，以及组织成熟度、团队中个体的能力，共同决定了变异性内部根源的数量和变异程度。
 * 工作项规模 Work Item Size
     * 用于分解需求和将之条目化以便投入开发的分析方法，自身具有一定程度的变异性。
@@ -455,7 +455,7 @@
 * 返工 Rework
     * 若缺陷率未知，则系统缺乏可预测性，提高变异的分布
     * 若缺陷率已知，那么虽然这个系统尚不经济，但是，是一个可靠的系统。可以通过改变软件开发生命周期过程能够对其产生显著影响。
-####变异性的外部根源 External Sources of Variability
+#### 变异性的外部根源 External Sources of Variability
 * 变异性的外部根源，来自于那些不在软件开发过程或项目管理方法控制的区域。
 * 需求模糊 Requirements Ambiguity
     * 可以展开深入讨论，进行根因分析和消除（root-cause analysis and elimination）
@@ -470,15 +470,15 @@
 * 其他市场因素 Other Market Factors
     * 与强大的事件驱动风险管理结合，看板系统能够产出更好的经济效益
 * 安排协调活动的难度 Difficulty Scheduling Coordination Activity
-###问题管理和升级策略 Issue Management and Escalation Policies
+### 问题管理和升级策略 Issue Management and Escalation Policies
 * 将受阻工作项视为瓶颈是一种危险的错误想法，因为它将导致错误的问题解决思路。对于受阻工作项，应该从消除特别致因变异角度来考虑。
-####对问题的管理 Managing Issues
+#### 对问题的管理 Managing Issues
 * 单单将受阻工作项标识出来进行跟踪还不够，还需要对受阻原因进行单独跟踪。
-####问题升级 Escalating Issues
+#### 问题升级 Escalating Issues
 * 需要将问题解决的策略或者过程编写成文。
-####问题跟踪和报告 Tracking and Reporting Issues
+#### 问题跟踪和报告 Tracking and Reporting Issues
 * 创建并跟踪问题项，包括开始时间，接受时间，分配的团队成员，问题描述，受影响的工作项。
-###术语 Terminology
+### 术语 Terminology
 * 可持续步调 sustainable pace
 * 极客 geek
 * 双赢 win-win
@@ -495,7 +495,7 @@
 * 服务水平协议 service level agreement (SLA)
 * 累计流图 cumulative-flow diagram
 
-###索引 Index
+### 索引 Index
 A  
 活动 activity  
 * 并行 concurrent 76  
