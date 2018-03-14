@@ -1,53 +1,53 @@
 # 看板方法 KANBAN   
 ## 科技企业渐进变革成功之道 Successful Evolutionary Change for Your Technology Business   
-### 导论 Introduction 
-#### 解决敏捷管理者的困境 Solving an Agile Manager's Dilemma
+### 导论 Introduction  
+#### 解决敏捷管理者的困境 Solving an Agile Manager's Dilemma  
 * 我对可持续步调的探索 My Search for Sustainable Pace  
-  作者希望能够把软件从业者从无止无尽的需求中解脱出来，形成一个可持续的开发步调以应对无穷无尽的需求。
+  作者希望能够把软件从业者从无止无尽的需求中解脱出来，形成一个可持续的开发步调以应对无穷无尽的需求。  
 * 我对成功变革管理的探索 My Search for Successful Change Management  
-  作者对在别的团队中推广或者实施改革的思考。通常在一个团队中实施变革，或多或少都会遇到一定的阻力。如何消除这些阻力，使得变革顺利进行？这是领导者需要思考的问题。作者提出使用Kanban方法，以达到润物细无声的效果。
-* 从“鼓-缓冲-绳”转向“看板” From Drum-Buffer-Rope to Kanban
-* 看板方法的出现 Emergence of the Kanban Method
-* 看板方法被社区采纳的过程 Kanban's Community Adoption
-* 看板的价值是反直觉的 The Value of Kanban is Counter-Intuitive
-  Kanban的原生发明者是将其用于制造业。而IT是知识性工作和制造业的重复性生产活动有着明显的区别。制造业具有低变异性，发生变化的成本高。IT行业则正好相反，具有高变异性，但是发生变化的成本相对较低。Kanban方法能不能在IT行业奏效？数据已经说明了一切，但是我们还是需要理解其有效的工作原理，以期能在自己的工作中活学活用。
-* 总结 Summary
-  作者探索拉动系统，来自两方面的动机： 一方面是寻找一种系统性的途径，使团队在工作中实现可持续的步调；另一方面是寻找一种方法，能够以最小的阻力引入过程变革。
-  **看板（kanban）**指的是信号卡，**看板系统（kanban system）**指的是使用信号卡实施的拉动系统，**看板（Kanban）方法**指的是渐进(evolutionary)增量式(incremental)的过程改进方法学。
-#### 什么是看板方法 What Is the Kanban Method?
+  作者对在别的团队中推广或者实施改革的思考。通常在一个团队中实施变革，或多或少都会遇到一定的阻力。如何消除这些阻力，使得变革顺利进行？这是领导者需要思考的问题。作者提出使用Kanban方法，以达到润物细无声的效果。  
+* 从“鼓-缓冲-绳”转向“看板” From Drum-Buffer-Rope to Kanban  
+* 看板方法的出现 Emergence of the Kanban Method  
+* 看板方法被社区采纳的过程 Kanban's Community Adoption  
+* 看板的价值是反直觉的 The Value of Kanban is Counter-Intuitive  
+  Kanban的原生发明者是将其用于制造业。而IT是知识性工作和制造业的重复性生产活动有着明显的区别。制造业具有低变异性，发生变化的成本高。IT行业则正好相反，具有高变异性，但是发生变化的成本相对较低。Kanban方法能不能在IT行业奏效？数据已经说明了一切，但是我们还是需要理解其有效的工作原理，以期能在自己的工作中活学活用。  
+* 总结 Summary  
+  作者探索拉动系统，来自两方面的动机： 一方面是寻找一种系统性的途径，使团队在工作中实现可持续的步调；另一方面是寻找一种方法，能够以最小的阻力引入过程变革。  
+  **看板（kanban）**指的是信号卡，**看板系统（kanban system）**指的是使用信号卡实施的拉动系统，**看板（Kanban）方法**指的是渐进(evolutionary)增量式(incremental)的过程改进方法学。  
+#### 什么是看板方法 What Is the Kanban Method?  
 * 什么是看板系统 What is a Kanban System?  
   看板（或卡片）的数量，等价于系统设置（核定）的流通能力。  
-  拉动系统（pull system）的核心特点是只有系统具备了处理的能力才能拉入新工作项，而不是基于需求将工作项推入系统中。
-* 把看板应用于软件开发中 Kanban Applied in Software Development
-  卡片墙或者白板并不是看板系统。它们仅仅是可视化控制系统（visual control system）。它可以让团队以可视化的方式观察在制品并进行自组织（self-organize），无需项目经理的指令，便可自行分派任务，将工作从待办项列表中移向完成状态。
-  如果在制品数量没有明确被限制，系统也不能发送信号拉动新工作，那么这个系统并不能算是一个看板系统。
-* 为什么使用看板系统？ Why Use a Kanban System?
-  迅速暴露影响能效的问题，使得缺陷、瓶颈、变异性以及经济成本等因素对流动与交付速率的影响变得更加明显
-  关注质量和流程的改进
-  通过稳定的发布节奏，实现可靠如一的可靠交付，帮助团队与上下游建立信任关系
+  拉动系统（pull system）的核心特点是只有系统具备了处理的能力才能拉入新工作项，而不是基于需求将工作项推入系统中。  
+* 把看板应用于软件开发中 Kanban Applied in Software Development  
+  卡片墙或者白板并不是看板系统。它们仅仅是可视化控制系统（visual control system）。它可以让团队以可视化的方式观察在制品并进行自组织（self-organize），无需项目经理的指令，便可自行分派任务，将工作从待办项列表中移向完成状态。  
+  如果在制品数量没有明确被限制，系统也不能发送信号拉动新工作，那么这个系统并不能算是一个看板系统。  
+* 为什么使用看板系统？ Why Use a Kanban System?  
+  迅速暴露影响能效的问题，使得缺陷、瓶颈、变异性以及经济成本等因素对流动与交付速率的影响变得更加明显  
+  关注质量和流程的改进  
+  通过稳定的发布节奏，实现可靠如一的可靠交付，帮助团队与上下游建立信任关系  
   实现组织文化的演进，促进高度协作、高度信任、高度授权和持续改进的文化形成  
-* 看板方法模型 A Model for the Kanban Method
+* 看板方法模型 A Model for the Kanban Method  
   ![Limited WIP Society](http://www.limitedwipsociety.org)
-* 识别看板方法的应用实施 Recognizing a Kanban Method Implementation
-  实施看板方法的团队的5项核心特性：可视化工作流程；限制进行中的工作（work-in-progress）；度量和管理流动；明确过程策略；使用模型来识别改进机会。
-  5个附加特性：根据延迟（机会）成本进行工作项的优先级排序。通过服务分类来优化价值；通过产能分配（capacity allocation）来管理风险；鼓励工艺和过程创新；定量化管理。
-* 作为权限授予者的看板 Kanban as a Permission Giver
-  Kanban方法要求对过程中的规则进行明确的定义。
-  Kanban方法推动团队开发自己独特的过程解决方案。使用来自不同知识领域的工具，鼓励分析问题和探索解决方案。
-### Kanban方法的益处 Benefits of Kanban
-#### 一种成功秘诀 A Recipe for Success
-* 使用秘诀 Implementing the Recipe
-  秘诀中的各项内容，是按照技术职能经理能够依之操作的顺序排列的。专注于质量放在第一步，是因为像开发/测试经理这样的管理者，所能单方面控制和施加影响的。沿着列表向下，到“进行优先级排序”这一步，可控性将逐步降低，而和其他上下游群体进行合作的要求则会逐步加强。
-  专注于质量 Focus on Quality
-  减少在制品并频繁交付 Reduce Work-in-Progress and Deliver Often
-  根据交付速率来平衡需求请求量 Balance Demand against Throughput
-    价值流中的每个人都会声称自己已经超载。限制在制品数量后，只有瓶颈资源才会保持满负荷的状况。这样可以让管理层更加清楚真正的瓶颈在哪里。同时，其他的员工会发现他们有了富余能力。这会鼓励他们将精力投向于环境改造，而不是永远忙于手头的事物。这项微小的改变会促进团队进行持续改善，最终达到在团队内部，建立持续改善的文化。
-  优先级排序 Prioritize
-    作者建议只有团队能够实施前三步，再进行优先级排序。因为当交付方面尚缺乏可预测性，需求的交付次序不可靠时，是没有必要去浪费精力去安排它们的输入次序。
-    大多数的团队都存在能力不足的情况。团队必须直面这个问题，并且通过设定目标循序渐进地构建成熟度。作为IT团队，最主要的还是需要学习构建高质量的代码。这个是作为程序员重中之重的能力，也是获取政治资本和社会资本的根源。
-  消除变异性的根源，提升可预测性 Attack Sources of Variability to Improve Predictability
-  这是一个高阶话题，但是作为IT领域的团队，关注于需求规模上的差异性，以及在分析、设计、编码、测试、集成构建和交付工作量上的变异性，会对流程的交付速率以及运转整个软件开发价值流所需的开销方面产生积极影响。
-#### 成功秘诀和看板方法 Recipe for Success and Kanban
+* 识别看板方法的应用实施 Recognizing a Kanban Method Implementation  
+  实施看板方法的团队的5项核心特性：可视化工作流程；限制进行中的工作（work-in-progress）；度量和管理流动；明确过程策略；使用模型来识别改进机会。  
+  5个附加特性：根据延迟（机会）成本进行工作项的优先级排序。通过服务分类来优化价值；通过产能分配（capacity allocation）来管理风险；鼓励工艺和过程创新；定量化管理。  
+* 作为权限授予者的看板 Kanban as a Permission Giver  
+  Kanban方法要求对过程中的规则进行明确的定义。  
+  Kanban方法推动团队开发自己独特的过程解决方案。使用来自不同知识领域的工具，鼓励分析问题和探索解决方案。  
+### Kanban方法的益处 Benefits of Kanban  
+#### 一种成功秘诀 A Recipe for Success  
+* 使用秘诀 Implementing the Recipe  
+  秘诀中的各项内容，是按照技术职能经理能够依之操作的顺序排列的。专注于质量放在第一步，是因为像开发/测试经理这样的管理者，所能单方面控制和施加影响的。沿着列表向下，到“进行优先级排序”这一步，可控性将逐步降低，而和其他上下游群体进行合作的要求则会逐步加强。  
+  专注于质量 Focus on Quality  
+  减少在制品并频繁交付 Reduce Work-in-Progress and Deliver Often  
+  根据交付速率来平衡需求请求量 Balance Demand against Throughput  
+    价值流中的每个人都会声称自己已经超载。限制在制品数量后，只有瓶颈资源才会保持满负荷的状况。这样可以让管理层更加清楚真正的瓶颈在哪里。同时，其他的员工会发现他们有了富余能力。这会鼓励他们将精力投向于环境改造，而不是永远忙于手头的事物。这项微小的改变会促进团队进行持续改善，最终达到在团队内部，建立持续改善的文化。  
+  优先级排序 Prioritize  
+    作者建议只有团队能够实施前三步，再进行优先级排序。因为当交付方面尚缺乏可预测性，需求的交付次序不可靠时，是没有必要去浪费精力去安排它们的输入次序。  
+    大多数的团队都存在能力不足的情况。团队必须直面这个问题，并且通过设定目标循序渐进地构建成熟度。作为IT团队，最主要的还是需要学习构建高质量的代码。这个是作为程序员重中之重的能力，也是获取政治资本和社会资本的根源。  
+  消除变异性的根源，提升可预测性 Attack Sources of Variability to Improve Predictability  
+  这是一个高阶话题，但是作为IT领域的团队，关注于需求规模上的差异性，以及在分析、设计、编码、测试、集成构建和交付工作量上的变异性，会对流程的交付速率以及运转整个软件开发价值流所需的开销方面产生积极影响。  
+#### 成功秘诀和看板方法 Recipe for Success and Kanban  
 #### Summary
 * Kanban方法是一个闭环系统。实施看板方法能够产生富余时间。富余时间可以鼓励员工降低变异性。降低变异性能够减少对富余时间的需要，有利于实现资源平衡，降低对资源的需求，是更多改进机会成为可能。
 ### 在五个季度内，从最差变为最好 From Worst to BEst in Five Quarters
